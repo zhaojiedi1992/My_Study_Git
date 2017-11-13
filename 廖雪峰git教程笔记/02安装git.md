@@ -8,7 +8,7 @@
 [root@centos6 ~]# yum install git -y
 ```
 
-### 按照后的配置
+###安装后的配置
 ```bash
 [root@centos6 ~]# git config --global user.name "zhaojiedi1992"
 [root@centos6 ~]# git config --global user.email "zhaojiedi1992@outlook.com"
