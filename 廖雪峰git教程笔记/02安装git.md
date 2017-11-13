@@ -13,4 +13,4 @@
 [root@centos6 ~]# git config --global user.name "zhaojiedi1992"
 [root@centos6 ~]# git config --global user.email "zhaojiedi1992@outlook.com"
 ```
-注意：windows确保git的命令路径添加到环境变量里面去。
+*注意：windows确保git的命令路径添加到环境变量里面去。*
